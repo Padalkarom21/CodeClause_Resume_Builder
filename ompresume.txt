@@ -1,0 +1,6 @@
+Name: Om Padalkar
+Email: om@gmail.com
+Phone: 1234567890
+Education: TYIT
+Work Experience: 1
+Skills: HTML, CSS, JS
